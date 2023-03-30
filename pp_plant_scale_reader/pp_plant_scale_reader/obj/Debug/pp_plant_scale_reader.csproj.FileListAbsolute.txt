@@ -1,0 +1,16 @@
+c:\users\lasith.chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\pp_plant_scale_reader.exe.config
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\pp_plant_scale_reader.exe
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\pp_plant_scale_reader.pdb
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\Kepware.ClientAce.KEPServerExControls.dll
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\Kepware.ClientAce.OpcClient.dll
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\Kepware.ClientAce.OpcClient.xml
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.ProjectInstaller.resources
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.csproj.GenerateResource.Cache
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.exe
+C:\Users\Lasith.Chandimal\documents\visual studio 2013\Projects\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.pdb
+I:\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\pp_plant_scale_reader.exe.config
+I:\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.exe
+I:\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.pdb
+C:\Users\Games\Desktop\University Stuff\Unilever work\pp_plant_scale_reader\pp_plant_scale_reader\bin\Debug\pp_plant_scale_reader.exe.config
+C:\Users\Games\Desktop\University Stuff\Unilever work\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.exe
+C:\Users\Games\Desktop\University Stuff\Unilever work\pp_plant_scale_reader\pp_plant_scale_reader\obj\Debug\pp_plant_scale_reader.pdb
